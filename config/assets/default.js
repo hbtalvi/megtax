@@ -9,7 +9,14 @@ module.exports = {
         // bower:css
         'public/lib/bootstrap/dist/css/bootstrap.css',
         'public/lib/bootstrap/dist/css/bootstrap-theme.css',
-        'public/lib/ng-img-crop/compile/unminified/ng-img-crop.css'
+        'public/lib/ng-img-crop/compile/unminified/ng-img-crop.css',
+        'public/theme/css/animate.css',
+        'public/theme/css/app.css',
+        'public/theme/css/bootstrap.css',
+        'public/theme/css/bootstrap.css.map',
+        'public/theme/css/font-awesome.min.css',
+        'public/theme/css/font.css',
+        'public/theme/css/icon.css'
         // endbower
       ],
       js: [
@@ -23,7 +30,24 @@ module.exports = {
         'public/lib/angular-mocks/angular-mocks.js',
         'public/lib/angular-resource/angular-resource.js',
         'public/lib/angular-ui-router/release/angular-ui-router.js',
-        'public/lib/owasp-password-strength-test/owasp-password-strength-test.js'
+        'public/lib/owasp-password-strength-test/owasp-password-strength-test.js',
+         "public/theme/js/bootstrap.js" ,
+    // <!-- App -->
+        'public/theme/js/app.js' ,
+        'public/theme/js/slimscroll/jquery.slimscroll.min.js' ,
+        'public/theme/js/charts/easypiechart/jquery.easy-pie-chart.js' ,
+        'public/theme/js/charts/sparkline/jquery.sparkline.min.js' ,
+        'public/theme/js/charts/flot/jquery.flot.min.js' ,
+        'public/theme/js/charts/flot/jquery.flot.tooltip.min.js' ,
+        'public/theme/js/charts/flot/jquery.flot.spline.js' ,
+        'public/theme/js/charts/flot/jquery.flot.pie.min.js' ,
+        'public/theme/js/charts/flot/jquery.flot.resize.js' ,
+        'public/theme/js/charts/flot/jquery.flot.grow.js' ,
+        'public/theme/js/calendar/bootstrap_calendar.js' ,
+        'public/theme/js/sortable/jquery.sortable.js' ,
+        'public/theme/js/app.plugin.js'
+
+
      
         // endbower
       ],
