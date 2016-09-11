@@ -23,8 +23,8 @@ module.exports = {
         'public/lib/angular-mocks/angular-mocks.js',
         'public/lib/angular-resource/angular-resource.js',
         'public/lib/angular-ui-router/release/angular-ui-router.js',
-        'public/lib/owasp-password-strength-test/owasp-password-strength-test.js',
-        'public/lib/webcam-directive/dist/webcam.min.js'
+        'public/lib/owasp-password-strength-test/owasp-password-strength-test.js'
+     
         // endbower
       ],
       tests: ['public/lib/angular-mocks/angular-mocks.js']
