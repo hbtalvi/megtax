@@ -13,7 +13,6 @@ module.exports = {
         'public/theme/css/animate.css',
         'public/theme/css/app.css',
         'public/theme/css/bootstrap.css',
-        'public/theme/css/bootstrap.css.map',
         'public/theme/css/font-awesome.min.css',
         'public/theme/css/font.css',
         'public/theme/css/icon.css'
@@ -31,7 +30,9 @@ module.exports = {
         'public/lib/angular-resource/angular-resource.js',
         'public/lib/angular-ui-router/release/angular-ui-router.js',
         'public/lib/owasp-password-strength-test/owasp-password-strength-test.js',
-         "public/theme/js/bootstrap.js" ,
+        'https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js',
+         'public/theme/js/bootstrap.js',
+         
     // <!-- App -->
         'public/theme/js/app.js' ,
         'public/theme/js/slimscroll/jquery.slimscroll.min.js' ,
